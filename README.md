@@ -1,1 +1,1 @@
-https://github.com/WorKakashek/rsschool-cv/blob/gh-pages/cv.md.pdf
+https://WorKakashek.github.io/rsschool-cv/cv
